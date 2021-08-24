@@ -1,0 +1,1 @@
+该文件把 const.scala 中定义的 4 个类打包到 common。
